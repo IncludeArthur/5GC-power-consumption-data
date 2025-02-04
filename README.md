@@ -3,7 +3,7 @@ This respository contains power consumption measurements of open-source 5G Core 
 
 ## Our works
 * A. Bellin, M. Centenaro and F. Granelli, "A Preliminary Study on the Power Consumption of Virtualized Edge 5G Core Networks," 2023 IEEE 9th International Conference on Network Softwarization (NetSoft), Madrid, Spain, 2023, pp. 420-425, doi: 10.1109/NetSoft57336.2023.10175489.
-* Extended version [WIP]
+* A. Bellin, F. Granelli, and D. Munaretto, "A measurement-based approach to analyze the power consumption of the softwarized 5G core," Computer Networks, vol. 244, p. 110 312, 2024, doi: 10.1016/j.comnet.2024.110312.
 
 Please cite our published papers if you intend on using the data in this repository
 
